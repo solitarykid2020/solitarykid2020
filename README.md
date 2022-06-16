@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @solitarykid2020
-- 👀 I’m interested in coding with development...
-- 🌱 I’m currently learning Python and other programming languages...
+- 👋 Hi, I’m @solitarykid2020 / AZN
+- 👀 I’m interested in coding with development.
+- 🌱 I’m currently learning Python, R and SQL.
 
 
 <!---
